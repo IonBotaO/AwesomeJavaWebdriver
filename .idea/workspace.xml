@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca31e05a-9241-4d0b-9f61-4d8c23e6682b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BingSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GoogleSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/geckodriver.exe" afterDir="false" />
+    <list default="true" id="ca31e05a-9241-4d0b-9f61-4d8c23e6682b" name="Default Changelist" comment="Day 4 code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -291,6 +286,14 @@
       <option name="presentableId" value="Default" />
       <updated>1557350337397</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 4 code">
+      <created>1558467428292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558467428292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -336,9 +339,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17191978" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17191978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -352,9 +354,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49856734" weight="0.33916554" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50143266" side_tool="true" weight="0.33916554" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7636103" weight="0.42530283" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007163" side_tool="true" visible="true" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49928367" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3270525" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -405,6 +407,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 4 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4 code" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
