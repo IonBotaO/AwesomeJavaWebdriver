@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca31e05a-9241-4d0b-9f61-4d8c23e6682b" name="Default Changelist" comment="Day 4 code">
+    <list default="true" id="ca31e05a-9241-4d0b-9f61-4d8c23e6682b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GoogleSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoogleSearch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,20 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="221">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1558466859077" expanded="true" signature="734:832" ph="..." />
+                <marker date="1558552837840" expanded="true" signature="771:869" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BingSearch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -127,8 +128,8 @@
         <option value="$PROJECT_DIR$/src/test/java/Day3.java" />
         <option value="$PROJECT_DIR$/src/test/java/Annotations.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/GoogleSearch.java" />
         <option value="$PROJECT_DIR$/src/test/java/BingSearch.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GoogleSearch.java" />
       </list>
     </option>
   </component>
@@ -143,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,7 +189,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -293,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558467428292</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 4 code 2">
+      <created>1558468059105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558468059105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -339,8 +347,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17191978" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17406876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,8 +364,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7636103" weight="0.42530283" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007163" side_tool="true" visible="true" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49928367" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50143266" side_tool="true" visible="true" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49856734" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3270525" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -410,7 +419,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 4 code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 4 code" />
+    <MESSAGE value="Day 4 code 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4 code 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
@@ -511,6 +521,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/WebDriverWait.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1558552837840" expanded="true" signature="771:869" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BingSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4624">
@@ -545,31 +580,6 @@
           <folding>
             <element signature="e#675#676#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/WebDriverWait.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1558466859077" expanded="true" signature="734:832" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BingSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>

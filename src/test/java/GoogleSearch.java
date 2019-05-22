@@ -11,7 +11,7 @@ public class GoogleSearch {
 
     WebDriver driver;
 
-
+    //TODO: run this test in DEBUGGER
     @Test
     public void test001() {
 
@@ -67,4 +67,4 @@ public class GoogleSearch {
 }
 
 
-// 1:33 - продебагили вход и ввод текста на google.com
+// 1:44 - продебагили вход и ввод текста на google.com
