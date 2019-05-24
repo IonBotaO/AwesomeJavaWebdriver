@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca31e05a-9241-4d0b-9f61-4d8c23e6682b" name="Default Changelist" comment="">
+    <list default="true" id="ca31e05a-9241-4d0b-9f61-4d8c23e6682b" name="Default Changelist" comment="Add BING.com and Day5">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GoogleSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoogleSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BingSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BingSearch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,11 +22,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state relative-caret-position="170">
+              <caret line="34" column="70" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1558552837840" expanded="true" signature="771:869" ph="..." />
+                <marker date="1558554454889" expanded="true" signature="771:869" ph="..." />
               </folding>
             </state>
           </provider>
@@ -34,19 +35,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BingSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4624">
-              <caret line="310" selection-start-line="310" selection-end-line="310" />
+            <state relative-caret-position="202">
+              <caret line="30" column="75" lean-forward="true" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
               <folding>
-                <element signature="e#10571#10572#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,20 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3485">
-              <caret line="289" selection-start-line="289" selection-end-line="289" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3213">
-              <caret line="276" selection-start-line="276" selection-end-line="276" />
-              <folding>
-                <element signature="e#10988#10989#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="544">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
             </state>
           </provider>
         </entry>
@@ -76,11 +56,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/By.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="425">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
-                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#1407#1408#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2635">
+              <caret line="238" selection-start-line="238" selection-end-line="238" />
+              <folding>
+                <element signature="e#9504#9505#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Day5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -100,6 +101,7 @@
       <find>pa</find>
       <find>emp</find>
       <find>resultStats</find>
+      <find>this</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -128,14 +130,15 @@
         <option value="$PROJECT_DIR$/src/test/java/Day3.java" />
         <option value="$PROJECT_DIR$/src/test/java/Annotations.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/BingSearch.java" />
         <option value="$PROJECT_DIR$/src/test/java/GoogleSearch.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Day5.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BingSearch.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="832" />
+    <option name="x" value="713" />
+    <option name="width" value="734" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -144,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,6 +192,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GoogleSearch.test001">
+  <component name="RunManager" selected="TestNG.BingSearch.test002">
     <configuration name="Annotations" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AwesomeJavaWebdriver" />
       <option name="PACKAGE_NAME" value="" />
@@ -220,10 +223,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BingSearch" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AwesomeJavaWebdriver" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="BingSearch" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -231,11 +234,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day3.testTestReverseString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BingSearch.test002" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AwesomeJavaWebdriver" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day3" />
-      <option name="METHOD_NAME" value="testTestReverseString" />
+      <option name="MAIN_CLASS_NAME" value="BingSearch" />
+      <option name="METHOD_NAME" value="test002" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -268,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BingSearch.test002" />
         <item itemvalue="TestNG.GoogleSearch.test001" />
+        <item itemvalue="TestNG.BingSearch" />
         <item itemvalue="TestNG.GoogleSearch" />
         <item itemvalue="TestNG.Annotations" />
-        <item itemvalue="TestNG.Day3" />
-        <item itemvalue="TestNG.Day3.testTestReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -301,42 +304,49 @@
       <option name="project" value="LOCAL" />
       <updated>1558468059105</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Home Work added">
+      <created>1558552933341</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558552933341</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GoogleSearch_test001 - 2019.05.19 at 01h 11m 05s.xml">
+    <history-entry file="GoogleSearch_test001 - 2019.05.23 at 06h 52m 36s.xml">
       <configuration name="GoogleSearch.test001" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GoogleSearch_test001 - 2019.05.19 at 16h 56m 20s.xml">
+    <history-entry file="BingSearch_test002 - 2019.05.23 at 06h 53m 00s.xml">
+      <configuration name="BingSearch.test002" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BingSearch_test002 - 2019.05.23 at 06h 55m 20s.xml">
+      <configuration name="BingSearch.test002" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BingSearch_test002 - 2019.05.23 at 06h 56m 32s.xml">
+      <configuration name="BingSearch.test002" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BingSearch_test002 - 2019.05.23 at 07h 01m 08s.xml">
+      <configuration name="BingSearch.test002" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BingSearch_test002 - 2019.05.24 at 23h 02m 11s.xml">
+      <configuration name="BingSearch.test002" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BingSearch_test002 - 2019.05.24 at 23h 04m 04s.xml">
+      <configuration name="BingSearch.test002" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleSearch_test001 - 2019.05.24 at 23h 04m 32s.xml">
       <configuration name="GoogleSearch.test001" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GoogleSearch_test001 - 2019.05.19 at 17h 02m 35s.xml">
-      <configuration name="GoogleSearch.test001" configurationId="TestNG" />
+    <history-entry file="BingSearch_test002 - 2019.05.24 at 23h 05m 47s.xml">
+      <configuration name="BingSearch.test002" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GoogleSearch_test001 - 2019.05.19 at 17h 02m 44s.xml">
-      <configuration name="GoogleSearch.test001" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GoogleSearch_test001 - 2019.05.19 at 17h 05m 43s.xml">
-      <configuration name="GoogleSearch.test001" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GoogleSearch_test001 - 2019.05.19 at 17h 23m 22s.xml">
-      <configuration name="GoogleSearch.test001" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GoogleSearch_test001 - 2019.05.19 at 17h 23m 42s.xml">
-      <configuration name="GoogleSearch.test001" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GoogleSearch_test001 - 2019.05.21 at 22h 04m 16s.xml">
-      <configuration name="GoogleSearch.test001" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GoogleSearch_test001 - 2019.05.21 at 22h 09m 11s.xml">
-      <configuration name="GoogleSearch.test001" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GoogleSearch_test001 - 2019.05.21 at 22h 10m 53s.xml">
-      <configuration name="GoogleSearch.test001" configurationId="TestNG" />
+    <history-entry file="BingSearch_test002 - 2019.05.24 at 23h 17m 40s.xml">
+      <configuration name="BingSearch.test002" configurationId="TestNG" />
     </history-entry>
   </component>
-  <component name="TodoView" selected-index="2">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -349,7 +359,7 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17406876" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23997134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,15 +368,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30417228" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928367" visible="true" weight="0.30282637" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39434725" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7636103" weight="0.42530283" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50143266" side_tool="true" visible="true" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49856734" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3270525" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.497851" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.762894" weight="0.42530283" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007163" side_tool="true" weight="0.30417228" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.497851" weight="0.24659401" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49928367" weight="0.3257066" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -420,16 +430,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 4 code" />
     <MESSAGE value="Day 4 code 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 4 code 2" />
+    <MESSAGE value="Home Work added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home Work added" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="2896" column="18" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Day1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
@@ -514,35 +518,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="453" selection-start-line="453" selection-end-line="453" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/WebDriverWait.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1558552837840" expanded="true" signature="771:869" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BingSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -556,29 +535,171 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/RegexpExpectedExceptionsHolder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3485">
-          <caret line="289" selection-start-line="289" selection-end-line="289" />
+        <state relative-caret-position="238">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/annotations/JDK15AnnotationFinder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3213">
-          <caret line="276" selection-start-line="276" selection-end-line="276" />
+        <state relative-caret-position="205">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/ExpectedExceptionsHolder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/TestMethodWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="434" selection-start-line="434" selection-end-line="434" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/TestResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
           <folding>
-            <element signature="e#10988#10989#0" expanded="true" />
+            <element signature="e#3041#3042#0" expanded="true" />
+            <element signature="e#3080#3081#0" expanded="true" />
+            <element signature="e#3646#3647#0" expanded="true" />
+            <element signature="e#3685#3686#0" expanded="true" />
+            <element signature="e#3721#3722#0" expanded="true" />
+            <element signature="e#4081#4082#0" expanded="true" />
+            <element signature="e#4120#4121#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="e#2327#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="1470" column="31" selection-start-line="1470" selection-start-column="31" selection-end-line="1470" selection-end-column="31" />
+          <folding>
+            <element signature="e#55301#55302#0" expanded="true" />
+            <element signature="e#55344#55345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/invokers/InvokedMethodListenerInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="608" selection-start-line="608" selection-end-line="608" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-574">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/By.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="425">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
-            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2635">
+          <caret line="238" selection-start-line="238" selection-end-line="238" />
+          <folding>
+            <element signature="e#9504#9505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Day5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BingSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="30" column="75" lean-forward="true" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="34" column="70" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1558554454889" expanded="true" signature="771:869" ph="..." />
           </folding>
         </state>
       </provider>
