@@ -60,11 +60,11 @@ public class CheckboxesTest {
     }
 
 
-    @AfterSuite
-    public void afterSuite() {
-        driver.close();
-    }
+//    @AfterSuite
+//    public void afterSuite() {
+//        driver.close();
+//    }
 
 }
 
-//10:00
+// 1:10
