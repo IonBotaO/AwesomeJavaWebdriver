@@ -17,6 +17,7 @@ public class CheckboxesTest {
     public void beforeSuite() {
         System.setProperty("webdriver.gecko.driver", "src/test/resources/drivers/geckodriver.exe");
         driver = new FirefoxDriver();
+
     }
 
     //TODO: find a different way of checking if checkbox is selected
@@ -24,13 +25,19 @@ public class CheckboxesTest {
 
     //TODO: add more scenarios
     @Test
-    public void test002() {
+    public void test001() {
 
+       for(int i = 0; i < 10; i++) {
+           test002();
+           sleep();
+       }
     }
 
     //TODO: refactor into user actions steps
+
+
     @Test
-    public void test001() {
+    public void test002() {
         openCheckBoxesPage();
 
         List<WebElement> listOfInputs = driver.findElements(By.tagName("input"));
@@ -55,15 +62,23 @@ public class CheckboxesTest {
         Assert.assertEquals(expectedAttributeValue, attributeValue1);
     }
 
-    private void openCheckBoxesPage() {
+    private void openCheckBoxesPage() {     //open site with CheckBox
         driver.get("https://the-internet.herokuapp.com/checkboxes");
     }
 
+    @Test   // add sleep before close window
+    public void sleep() {
+        try {
+            Thread.sleep(1);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
 
-//    @AfterSuite
-//    public void afterSuite() {
-//        driver.close();
-//    }
+    @AfterSuite     //close the browser
+    public void afterSuite() {
+        driver.close();
+    }
 
 }
 
