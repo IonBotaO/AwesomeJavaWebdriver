@@ -9,7 +9,7 @@ public class BasicAuthTest {
     @BeforeSuite
     public void beforeSuite() {
         System.setProperty("webdriver.gecko.driver", "C:\\Users\\TaiVanika\\IdeaProjects\\AwesomeJavaWebdriver\\src\\test\\resources\\drivers\\geckodriver.exe");
-        driver = new FirefoxDriver();
+
     }
 
     @BeforeMethod
